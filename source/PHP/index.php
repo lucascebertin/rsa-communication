@@ -36,5 +36,6 @@
 	$decrypted = $rsaserver2->decrypt(base64_decode($csharp_encrypted));
 		
 	echo "c# decrypted: " . $decrypted . "<br />";
-	
+	echo "<br/>"
+	echo "<br/>"
 	echo "fim";
